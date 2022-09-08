@@ -1,0 +1,133 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+.thanhdieuhuong ul{
+	list-style-type: none;
+	font-size: 18px
+}
+.thanhdieuhuong ul,li{
+	display: inline;
+	padding:  40px;
+	color:white;
+}
+.thanhdieuhuong{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	padding: 0 110px;
+	font-size: 20px;
+font-family: 'Be Vietnam Pro', sans-serif;
+font-family: 'Lexend Deca', sans-serif;
+	background-color: black;
+}
+.thanhdieuhuong input{
+	border-radius:  20px;
+	padding: 10px 20px;
+	border: none;
+	background-color: black;
+	color: white;
+	font-size: 18px;
+	border: 4px solid;
+	font-family: 'Be Vietnam Pro', sans-serif;
+font-family: 'Lexend Deca', sans-serif;
+}
+.hire:hover{
+	color:black;
+	background-color:white;
+}
+.maudo:hover{
+	color:#FC0000;
+}
+.ten{
+	color:#FC0000;
+}
+.ten:hover{
+	color:black;
+}
+ h1{
+	font-family: 'Lexend Zetta', sans-serif;
+	 font-size: 90px;
+	 text-align: center;
+	 padding: 100px;
+	 height: 150px;		 
+}
+p{
+	font-family: 'Be Vietnam Pro', sans-serif;
+font-family: 'Lexend Deca', sans-serif;
+	text-align:center;
+	font-size: 25px;
+	height: 150px
+	
+}
+.hinhnguoi{
+	width: 40%;
+	float: right;
+	margin: 0px 450px;
+}
+.thanhdieuhuong img{
+	width: 10%;	
+}
+.chuba{
+ margin: 30px
+}
+.about{
+	height: 30px
+}
+.khungba{
+	height: 100vh;
+}
+.khungba h1{
+	font-size: 50px;
+
+	
+}
+.khungbon{
+	background-color:black;
+	
+}
+.chubon{
+	color:white;
+	font-size:50px;
+	height: 50px;
+}
+.ok {
+	color:white;
+	text-align:inherit;
+	font-size: 15px;
+	font-family: 'Be Vietnam Pro', sans-serif;
+font-family: 'Lexend Deca', sans-serif;
+}
+.okmot{
+	color:white;
+	font-family: 'Be Vietnam Pro', sans-serif;
+font-family: 'Lexend Deca', sans-serif;
+	font-size:35px;
+}
+.okhai{
+	color:white;
+	font-family: 'Be Vietnam Pro', sans-serif;
+font-family: 'Lexend Deca', sans-serif;
+}
+.noidung{
+	text-align: center;
+}
+hr{
+	margin: 20px;
+}
+.khungbon img{
+	width: 40%;
+	margin: 0 450px;
+}
+.Send{
+	padding: 20px;
+	text-align: center;
+}
+.form-floating{
+	margin: 30px;
+	
+}
+
+
